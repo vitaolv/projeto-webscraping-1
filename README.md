@@ -1,7 +1,7 @@
 # Projeto 1 de WebScraping
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
- 
+
 ## :memo: Descrição
  
 O principal objetivo é explorar os recursos da biblioteca Requests (responsável por realizar as requisições), BeautifulSoup (responsável por facilitar o parsing de páginas HTML) e Tabulate (responsável por formatar os dados e criar a tabela na saída). O projeto faz scraping da [página](https://www.fundamentus.com.br/resultado.php).
@@ -38,6 +38,7 @@ O principal objetivo é explorar os recursos da biblioteca Requests (responsáve
 ```
  
  :warning: → IMPORTANTE: é necessário ter conexão de internet para fazer scraping de uma página de website.
+ ##
  
  
 
